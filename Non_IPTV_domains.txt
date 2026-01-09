@@ -25,7 +25,11 @@ disneyplus.com
 bamgrid.com
 disney-plus.net
 amazon.com
+amazon.es
 primevideo.com
 amazonvideo.com
 dazn.com
 twitch.tv
+google.es
+google.com
+movistar.es
