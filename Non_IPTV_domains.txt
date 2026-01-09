@@ -13,7 +13,7 @@ youtubei.googleapis.com
 movistarplus.es
 movistarplus.com
 mi.movistarplus.es
-cdn.jwplayer.com (player)
+cdn.jwplayer.com
 edge.api.brightcove.com
 max.com
 hbomax.com
@@ -29,3 +29,4 @@ primevideo.com
 amazonvideo.com
 dazn.com
 twitch.tv
+
